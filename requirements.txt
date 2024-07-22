@@ -1,0 +1,30 @@
+langchain_openai
+langchain_core
+streamlit
+python-dotenv
+langchain_community
+langchain-community
+langserve
+fastapi
+uvicorn
+sse_starlette
+requests
+ipykernel
+bs4
+pypdf
+Chroma
+chromadb
+faiss-cpu
+arxiv
+wikibase-rest-api-client
+mediawikiapi
+wikipedia
+langchainhub
+# groq project
+groq
+cassio
+beautifulsoup4
+langchain-groq
+sentence_transformers
+#lessom 10 requirements
+langchain-objectbox
