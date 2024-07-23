@@ -28,3 +28,4 @@ langchain-groq
 sentence_transformers
 #lessom 10 requirements
 langchain-objectbox
+langchain
